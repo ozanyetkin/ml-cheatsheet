@@ -14,6 +14,12 @@ To use the examples in this repository, you need to have Python installed on you
 pip install scikit-learn tensorflow torch matplotlib numpy pandas
 ```
 
+To use the examples using torchvision and torchaudio, you can install them using pip:
+
+```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
+
 ## Table of Contents
 
 - [ML Cheatsheet](#ml-cheatsheet)

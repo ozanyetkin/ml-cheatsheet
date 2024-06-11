@@ -2,9 +2,23 @@
 
 Cheat sheet for ML models based on scikit-learn, TensorFlow, PyTorch, matplotlib, NumPy, and pandas.
 
+## Introduction
+
+This repository contains a collection of example machine learning source codes for various ML frameworks and libraries such as scikit-learn, TensorFlow, PyTorch, matplotlib, NumPy, and pandas. The purpose of this cheatsheet is to provide a quick reference for students and developers to understand and implement various machine learning models and techniques.
+
+## Installation
+
+To use the examples in this repository, you need to have Python installed on your machine. You can install the required libraries using pip:
+
+```bash
+pip install scikit-learn tensorflow torch matplotlib numpy pandas
+```
+
 ## Table of Contents
 
 - [ML Cheatsheet](#ml-cheatsheet)
+  - [Introduction](#introduction)
+  - [Installation](#installation)
   - [Table of Contents](#table-of-contents)
   - [scikit-learn](#scikit-learn)
     - [Classification](#classification)
